@@ -1,0 +1,5 @@
+== README
+
+ILSCatcher was an attempt to create an abstraction layer that could interact with a customized EvergreenILS OPAC skin and return values in JSON format. ILSCatcher2 is a redesign to make the application more modular, maintainable, fast, and able to work with the base Evergreen ILS skin (as much as possible). 
+
+
